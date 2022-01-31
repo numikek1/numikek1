@@ -5,7 +5,7 @@
 <img align="left" src="https://cdn.discordapp.com/attachments/937199799738978376/937697860135309332/mp4.gif" alt="logo.png" width="200" /> 
 
 ```csharp
-numikFRKI@github
+??@github
 ----------------
 
        OS  :  Gentoo
