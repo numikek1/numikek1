@@ -8,13 +8,13 @@
 ??@github
 ----------------
 
-       OS  :  Gentoo
-       WM  :  dwm
-    Shell  :  zsh 5.8
- Terminal  :  Alacritty
-      CPU  :  intel i7
-    Alias  :  numi/numikek
-Languages  :  C++ C# C Python
+       OS  :  ??
+       WM  :  ??
+    Shell  :  ??
+ Terminal  :  ??
+      CPU  :  ??
+    Alias  :  ??
+Languages  :  ??
 ```
 
 <p align="left">
